@@ -1,0 +1,8 @@
+adjustText
+matplotlib
+mp-api
+numpy
+pandas
+plotly
+pymatgen
+
